@@ -1,5 +1,8 @@
 # Screen Capture
+![GitHub all releases](https://img.shields.io/github/downloads/waya0125/ScreenCapture/total?style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/waya0125/ScreenCapture?style=flat-square) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fwaya0125%2FScreenCapture)
+
 [Booth](https://lesspeer-waya.booth.pm/items/4349439) | [GitHub](https://github.com/waya0125/ScreenCapture) | [WebSite](https://waya0125.com/) | [Twitter](https://twitter.com/wayamoti2015)
+
 
 ## **=== 概要 ===**
 **キャラクターをキレイに撮影したい！その一心で作りました。**  
