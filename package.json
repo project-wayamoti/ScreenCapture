@@ -1,0 +1,15 @@
+{
+    "name": "com.waya0125.screencapture",
+    "displayName": "waya0125 - Screen Capture",
+    "version": "1.0.0",
+	"unity": "2017.1",
+    "description": "This software is intended to photograph characters.",
+	"author": {
+		"name": "wayamoti2015@waya0125",
+		"email": "wayamoti2015@waya0125.com",
+		"url": "https://twitter.com/wayamoti2015"
+	},
+	"legacyFolders": {
+		"Editor\\ScreenCapture.cs": ""
+	}
+}
