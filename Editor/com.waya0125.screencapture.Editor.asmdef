@@ -1,0 +1,14 @@
+{
+  "name": "com.waya0125.screencapture.Editor",
+  "references": [
+    "com.waya0125.screencapture"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
