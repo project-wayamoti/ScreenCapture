@@ -1,15 +1,14 @@
 # Screen Capture
-![GitHub all releases](https://img.shields.io/github/downloads/waya0125/ScreenCapture/total?style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/waya0125/ScreenCapture?style=flat-square) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fwaya0125%2FScreenCapture)
+[Booth](https://lesspeer-waya.booth.pm/items/4349439) | [GitHub](https://github.com/waya0125/ScreenCapture) | [WebSite](https://waya0125.com/vcc/ScreenCapture) | [Twitter](https://twitter.com/wayamoti2015) | [Misskey](https://misskey.waya0125.com/@waya)
 
-[Booth](https://lesspeer-waya.booth.pm/items/4349439) | [GitHub](https://github.com/waya0125/ScreenCapture) | [WebSite](https://waya0125.com/) | [Twitter](https://twitter.com/wayamoti2015)
+## 概要
 
-
-## **=== 概要 ===**
 **キャラクターをキレイに撮影したい！その一心で作りました。**  
 ※ このソフトウェアは、キャラクターの撮影を目的としています。  
 ※ スクリプトをEditorフォルダに格納します。Editorフォルダに格納しないとビルド時、エディタ再生時にエラーになります。  
 
-**特徴：**
+## **特徴**
+
 - Main Cameraに投影されたオブジェクトを撮影できます。
 - カメラの解像度に応じてスクリーンショットの解像度を変更します。
 - アルファ値を変えることで透過画像も可能。
@@ -17,17 +16,28 @@
 
 **前提：** Main Cameraには必ずタグ「MainCamera」を付けてください。
 
-**使い方：**
+## **使い方**
+
 1. ScreenCapture.unitypackageをインポートします。*1
 2. メニューから「Tools」→「Screen Capture」を選択します。
 3. 「Capture」ボタンを押すと、スクリーンショットが撮影され、スクリーンショットが保存されます。
 
-*1 （わかる人向け）VRChatで使用する場合は、zipを展開したものをVCC経由でセットアップして下さい
+*1 （わかる人向け）VRChatで使用する場合は "https://waya0125.com/vpm" をAddRepositoryして下さい
 
+## Release
 
-## **=== リリース ===**
-**バージョン1.0.0（最新版）**  
-*リリース日: 2022年11月27日*
+### Version 1.0.1
+
+リリース日: 2023年07月22日
+
+- VCCでの導入方法を追記
+今まで対応していなかったが、URLでの追加方式に対応。
+- README.md, package.jsonの内容を変更
+Twitterが死んだのでMisskeyに変更。
+
+### Version 1.0.0
+
+リリース日: 2022年11月27日
 
 - スクリーンショットをAssets/Screenshot/フォルダに保存するように指定。
 - スクリーンショットの解像度をカメラの解像度に応じて変更するように指定。
