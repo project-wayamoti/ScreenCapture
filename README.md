@@ -24,6 +24,10 @@ VRChat Userの場合は [このURL](vcc://vpm/addRepo?url=https://waya0125.com/v
 1. このリポジトリのMasterをZIPファイルでダウンロードして解凍します。
 2. 解凍したフォルダをUnityのプロジェクトのAssetsフォルダにコピーすれば完了です。
 
+もしくは
+
+Releaseにあるunitypackageをインポートしてください。
+
 ## 使い方
 
 1. ScreenCapture.unitypackageをインポートします。*1
