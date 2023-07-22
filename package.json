@@ -1,17 +1,30 @@
 {
     "name": "com.waya0125.screencapture",
     "displayName": "waya0125 - Screen Capture",
-    "version": "1.0.0",
+    "description": "This software is intended to photograph characters.",
+	"changelogUrl": "https://waya0125.com/vcc/ScreenCapture",
+	"documentationUrl": "https://waya0125.com/vcc/ScreenCapture",
+	"url": "https://files.waya0125.com/vcc/ScreenCapture/ScreenCapture_1.0.0.zip",
+    "version": "1.0.1",
 	"unity": "2017.1",
 	"type": "tool",
-    "description": "This software is intended to photograph characters.",
-	"url" : "https://github.com/waya0125/ScreenCapture/archive/refs/heads/main.zip",
+	"license": "MIT",
+	"licensesUrl": "https://github.com/waya0125/ScreenCapture/blob/main/LICENSE",
 	"author": {
 		"name": "wayamoti2015@waya0125",
 		"email": "wayamoti2015@waya0125.com",
-		"url": "https://twitter.com/wayamoti2015"
+		"url": "https://misskey.waya0125.com/@waya"
 	},
+	"keywords": [
+		"Screen",
+		"Capture",
+		"Avatar",
+		"waya0125"
+	],
 	"legacyFiles": {
-		"ScreenCapture.cs": ""
+		"ScreenCapture.cs": "",
+		"ScreenCapture.cs.meta": "",
+		"Editor/ScreenCapture.cs": "",
+		"Editor/ScreenCapture.cs.meta": ""
 	}
 }
