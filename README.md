@@ -18,7 +18,7 @@
 
 ## 導入方法
 
-VRChat Userの場合は [このURL](vcc://vpm/addRepo?url=https://waya0125.com/vpm) を踏んでリポジトリを追加した上でVCCを上でインポートしてください。  
+VRChat Userの場合は vcc://vpm/addRepo?url=https://waya0125.com/vpm を踏んでリポジトリを追加した上でVCCを上でインポートしてください。  
 その他の場合は、以下の手順でインポートしてください。
 
 1. このリポジトリのMasterをZIPファイルでダウンロードして解凍します。
