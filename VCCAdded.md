@@ -1,4 +1,8 @@
 # VRChat Creator CompanionでUser Packageを導入してみよう！
+
+※ 現在URLでの追加方法が存在するためこのやり方は非推奨とします。  
+[このURL](https://waya0125.com/vcc/ScreenCapture)を参考に導入してください。
+
 これ、意外とサイトに書かれてないんですよ。どうしてなんですかね....  
 とりあえず今回はVCCでUser Packageを導入してみようと思います。
 
